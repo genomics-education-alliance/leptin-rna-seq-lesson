@@ -2,70 +2,133 @@
 
 |GEA logo|_
 
-{{ lesson_title }}
-===================================================
+Introduction to RNA-Seq: Leptin expression in mouse
+======================================================
 
-**Authors:** {{ authors_institutions }}
+Submission Details
+-------------------
 
-**Corresponding author and contact info:** {{corresponding_author}}
+ .. list-table::
+     :header-rows: 0
+     :stub-columns: 1
+     :widths: 30 90
+     :align: left
 
-Prerequisites and Lesson Categories
------------------------------------
+     * - Submission Date
+       - December, 2019
+     * - Version
+       - 1.0
+     * - Authors
+       - - Jason Williams, Cold Spring Harbor Laboratory
+         - Judy Brusslan, California State University Long Beach
+         - Ray Enke, Jame Madison University
+         - Matthew Escobar, California State University San Marcos
+         - Vince Buonaccorsi, Juaniata College
+     * - Corresponding author
+       - Jason Williams (williams@cshl.edu)
+----
 
-Lesson Abstract
-~~~~~~~~~~~~~~~
-{{abstract}}
+Lesson Overview
+----------------
 
-- **Keywords**: {{keywords}}
+ .. list-table::
+     :header-rows: 0
+     :stub-columns: 1
+     :widths: 30 90
+     :align: left
 
-- **Approximate instructional time (min)**: {{instruction_time_minutes}}
+     * - Lesson abstract
+       - XXXX
+     * - Lesson keywords
+       - XXXX
+     * - Organism(s) that are the focus of this lesson
+       - XXXX
+     * - Type(s) of student learning assessments
+       - XXXX
+     * - Websites and online databases used
+       - XXXX
+----
+
+Learning Topics
+------------------
+
+ .. list-table::
+     :header-rows: 0
+     :stub-columns: 1
+     :widths: 30 90
+     :align: left
+
+     * - Topics in scientific fields
+       - XXX
+     * - Topics in mathematics or statistics
+       - XXX
+     * - Topics in bioinformatics or data science
+       - XXX
+----
 
 Student Prerequisites
-~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 
--  **Recommended prior course work:** {{student_prereq_coursework}}
+ .. list-table::
+     :header-rows: 0
+     :stub-columns: 1
+     :widths: 30 90
+     :align: left
 
--  **Recommended computer skills:** {{student_prereq_computer}}
+     * - Recommended prior course work
+       - XXX
+     * - Recommended computer skills
+       - XXX
+----
 
 Instructor Prerequisites
-~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
-- **Implementation requirements:** {{inst_requirements}}
+ .. list-table::
+     :header-rows: 0
+     :stub-columns: 1
+     :widths: 30 90
+     :align: left
 
-- **Individual and/or team student work:** {{team_work}}
-
-- **Additional lesson resources included:** {{lesson_addons}}
-
-Lesson Topic Tags
-~~~~~~~~~~~~~~~~~~
-
--  **Science:** {{ tags_science }}
-
--  **Math/statistics:** {{ tags_math }}
-
--  **Bioinformatics:** {{ tags_bioinformatics }}
-
-
-Competencies and Other Classifications
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  **NIBLSE Bioinformatics** {{ competencies_niblse }}
-
-
-
-.. toctree::
-	:maxdepth: 1
-
-	Lesson cover page <self>
-	Section One <section-1.rst>
-	Section N <section-n.rst>
-	Lesson summary <section-summary.rst>
-	Glossary <section-glossary.rst>
-
-	Delete this example guide page <example_directives_delete.rst>
-..
-
+     * - Recommended computer skills
+       - XXX
+     * - Instructional requirements
+       - XXX
 ----
+
+Implementation Recommendations
+--------------------------------
+
+ .. list-table::
+     :header-rows: 0
+     :stub-columns: 1
+     :widths: 30 90
+     :align: left
+
+     * - Instructional time required
+       - XXX
+     * - Students work as individuals or teams
+       - XXX
+     * - Number of students in a class
+       - XXX
+----
+
+Accessibility
+--------------------------------
+
+ .. list-table::
+     :header-rows: 0
+     :stub-columns: 1
+     :widths: 30 90
+     :align: left
+
+     * - Available languages
+       - XXX
+     * - Additional materials for students with disabilities
+       - XXX
+
+
+
 
 .. Comment: Place Images Below This Line
    use :width: to give a desired width for your image
