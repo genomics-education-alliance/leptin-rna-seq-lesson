@@ -1,1 +1,1 @@
-pip install -r sphinx_fontawesome
+sphinx_fontawesome
