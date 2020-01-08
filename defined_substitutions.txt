@@ -1,1 +1,189 @@
 .. Comment: URLS
+
+.. |Jupyter| raw:: html
+
+  <a href="https://jupyter.org/" target="blank">Jupyter</a>
+
+.. |JupyterLab documentation| raw:: html
+
+  <a href="https://jupyterlab.readthedocs.io/en/latest/" target="blank">JupyterLab documentation</a>
+
+.. |CyVerse| raw:: html
+
+  <a href="https://www.cyverse.org/" target="blank">CyVerse</a>
+
+.. |CyVerse user portal| raw:: html
+
+  <a href="https://user.cyverse.org/" target="blank">CyVerse user portal</a>
+
+.. |CyVerse Discovery Environment| raw:: html
+
+  <a href="https://de.cyverse.org/" target="blank">CyVerse Discovery Environment</a>
+
+.. |CyVerse Data Store| raw:: html
+
+  <a href="https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/" target="blank">CyVerse Data Store</a>
+
+.. |CyVerse VICE| raw:: html
+
+  <a href="https://learning.cyverse.org/projects/vice/en/latest/" target="blank">CyVerse VICE</a>
+
+.. |Jupyter Notebooks| raw:: html
+
+  <a href="https://jupyterlab.readthedocs.io/en/stable/user/notebook.html" target="blank">Jupyter Notebooks</a>
+
+.. |Markdown| raw:: html
+
+  <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="blank">Markdown</a>
+
+.. |Bash| raw:: html
+
+  <a href="https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba" target="blank">Bash</a>
+
+.. |Software Carpentry| raw:: html
+
+  <a href="http://swcarpentry.github.io/shell-novice/" target="blank">Software Carpentry</a>
+
+.. |loop lesson|  raw:: html
+
+  <a href="http://swcarpentry.github.io/shell-novice/05-loop/index.html" target="blank">loop lesson</a>
+
+.. |leptin|  raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Leptin" target="blank">leptin</a>
+
+.. |Wnt|  raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Wnt_signaling_pathway" target="blank">Wnt</a>
+
+.. |Leptin paper|  raw:: html
+
+  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5862315/" target="blank">Leptin paper</a>
+
+.. |SRA tools|  raw:: html
+
+  <a href="https://ncbi.github.io/sra-tools/" target="blank">SRA tools</a>
+
+.. |SRA|  raw:: html
+
+  <a href="https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=announcement" target="blank">SRA</a>
+
+.. |FastQC|  raw:: html
+
+  <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" target="blank">FastQC</a>
+
+.. |Trimmomatic|  raw:: html
+
+  <a href="http://www.usadellab.org/cms/?page=trimmomatic" target="blank">Trimmomatic</a>
+
+.. |Kallisto|  raw:: html
+
+  <a href="https://pachterlab.github.io/kallisto/about" target="blank">Kallisto</a>
+
+.. |genomeview|  raw:: html
+
+  <a href="https://genomeview.readthedocs.io/en/latest/" target="blank">genomeview</a>
+
+.. |UCSC|  raw:: html
+
+  <a href="https://genome.ucsc.edu/" target="blank">UCSC</a>
+
+.. |IGV|  raw:: html
+
+  <a href="https://software.broadinstitute.org/software/igv/" target="blank">IGV</a>
+
+.. |iCommands|  raw:: html
+
+  <a href="https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step2.html" target="blank">iCommands</a>
+
+.. |Bioproject| raw:: html
+
+  <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA353374/" target="blank">Bioproject</a>
+
+.. |SRA experiments|  raw:: html
+
+  <a href="https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=353374" target="blank">SRA experiments</a>
+
+.. |Regular Diet Control 1| raw:: html
+
+  <a href="LINK" target="blank">Regular Diet Control 1</a>
+
+.. |All runs|  raw:: html
+
+  <a href="https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP093363&o=acc_s%3Aa" target="blank">All runs</a>
+
+.. |fastq format| raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/FASTQ_format" target="blank">fastq format</a>
+
+.. |Data Carpentry Genomics|  raw:: html
+
+  <a href="https://datacarpentry.org/wrangling-genomics/" target="blank">Data Carpentry Genomics</a>
+
+.. |High-throughput| raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/DNA_sequencing#High-throughput_methods" target="blank">High-throughput</a>
+
+.. |DNA Sequencing Fact Sheet|  raw:: html
+
+  <a href="https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet" target="blank">DNA Sequencing Fact Sheet</a>
+
+.. |FastQ|  raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/FASTQ_format" target="blank">FastQ</a>
+
+.. |Phred score|  raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Phred_quality_score" target="blank">Phred score</a>
+
+.. |adapter sequences|  raw:: html
+
+  <a href="https://www.ecseq.com/support/ngs/trimming-adapter-sequences-is-it-necessary" target="blank">adapter sequences</a>
+
+.. |mouse reference|  raw:: html
+
+  <a href="https://www.ncbi.nlm.nih.gov/genome/?term=txid10090[orgn]" target="blank">mouse reference</a>
+
+.. |Stark et. al. 2019| raw:: html
+
+  <a href="https://www.nature.com/articles/s41576-019-0150-2" target="blank">Stark et. al. 2019</a>
+
+.. |blog post|  raw:: html
+
+  <a href="http://tinyheero.github.io/2015/09/02/pseudoalignments-kallisto.html" target="blank">blog post</a>
+
+.. |kallisto paper| raw:: html
+
+  <a href="https://www.nature.com/articles/nbt.3519" target="blank">kallisto paper</a>
+
+.. |Ensembl|  raw:: html
+
+  <a href="http://useast.ensembl.org/Mus_musculus/Info/Index" target="blank">Ensembl</a>
+
+.. |transcripts per million|   raw:: html
+
+  <a href="https://www.rna-seqblog.com/rpkm-fpkm-and-tpm-clearly-explained/" target="blank">transcripts per million</a>
+
+.. |BAM file|  raw:: html
+
+  <a href="https://samtools.github.io/hts-specs/SAMv1.pdf" target="blank">BAM</a>
+
+.. |Genome Browser Lesson|  raw:: html
+
+  <a href="https://qubeshub.org/community/groups/gea/lessons/eukaryotic-genes-modules" target="blank">Genome Browser Lesson</a>
+
+.. |genome browser|  raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Genome_browser" target="blank">genome browser</a>
+
+.. |Sleuth|  raw:: html
+
+  <a href="https://pachterlab.github.io/sleuth/about" target="blank">Sleuth</a>
+
+.. |LINK|  raw:: html
+
+  <a href="LINK" target="blank">LINK</a>
+
+.. |LINK|  raw:: html
+
+  <a href="LINK" target="blank">LINK</a>

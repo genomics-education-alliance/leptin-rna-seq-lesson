@@ -1,6 +1,6 @@
 .. include:: defined_substitutions.txt
 
-|GEA logo|_
+
 
 Introduction to RNA-Seq: Leptin expression in mouse
 ======================================================
@@ -127,6 +127,23 @@ Accessibility
      * - Additional materials for students with disabilities
        - XXX
 
+Table of Contents
+--------------------------------
+
+.. toctree::
+	:maxdepth: 2
+
+  Lesson home <self>
+  Launch Lesson on CyVerse <section-1.rst>
+  Jupyter Primer <section-2.rst>
+  Command Line Primer <section-3.rst>
+  Intro to RNA-Seq <section-4.rst>
+  Getting Data from NCBI <section-5.rst>
+  Assessing Data Quality <section-6.rst>
+  Trimming and Filtering Data <section-7.rst>
+  Pseudoalignment of Data Using Kallisto <section-8.rst>
+  Visualization of Aligned Data <section-9.rst>
+  Summary and Conclusion <section-10.rst>
 
 
 

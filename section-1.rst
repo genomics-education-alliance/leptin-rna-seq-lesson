@@ -1,79 +1,65 @@
 .. include:: defined_substitutions.txt
 
-Introduction (Major Section One)
-================================
+Launch Lesson on CyVerse
+=================================
 
-..
-  The lesson should begin with some text introducing the background of
-  the lesson
+  .. admonition:: learning-objectives
 
-[Sample Data]
+     - Understand how to get a CyVerse account
+     - Understand how to launch a lesson on CyVerse
+     - Understand to manage data on CyVerse
 
-..
-  If the lesson makes use of some sample data, you may wish to have a
-  description, citation, link, etc. detailing the sample data.
+Get a CyVerse Account
+----------------------
 
-[Sample Data]
+In order to run this lesson, you will need to have a |CyVerse| account. To get
+your account, visit |CyVerse user portal|.
 
-Subheading
-----------
+Launch a lesson on CyVerse
+------------------------------
 
-..
-  Your introduction may have zero or more Heading2 subheadings
+This lesson will be launched from the |CyVerse Discovery Environment|.
 
-Major Section Two
-==================
+**For the RNA-Seq Leptin Lesson**
+
+1. Click this quick-launch button to launch the lesson;
+
+    .. raw:: html
+
+      <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=76138a2c-3b6b-4494-b79a-7f5200b2b237&app-id=2b9d31fe-3162-11ea-a78a-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+
+   login to the Discovery Environment if necessary; then click **Launch Analysis**
+   to start the application.
+
+2. In your notifications (bell icon, upper right of DE screen), you will see a
+   link to the JupyterLab session;
+
+   |Session Link|
+
+   it may take 5 minutes or more before the JupyterLab session loads in a new
+   browser tab.
+
+   |lab session|
+
+3. The JupyterLab session will be active for 48 hours. After then, the lesson
+   will automatically terminate. Any files altered/created will be automatically
+   stored back to the |CyVerse Data Store|.
+
+Data Management on CyVerse
+------------------------------
+
+Before launching a JupyterLab session, you can also elect to include specific
+datasets not included in this lesson. You may also want to move data to or
+from the JupyterLab session after you have started it. Learn more about Data
+transfers from learning materials on |CyVerse Data Store| and |CyVerse VICE|.
 
 
-Learning Objectives
-~~~~~~~~~~~~~~~~~~~
+Backup Notebook
+------------------------------
 
--  Objective one
--  Objective two
--  Objective three
-
-..
-  Every lesson should start with one or more bulleted learning
-  objectives
-
-Section Introduction Subheading
--------------------------------
-
-..
-  Your introduction may have zero or more Heading2 subheadings. This
-  first subheading might introduce an activity.
-
-Exercise Subheading
--------------------
-
-..
-  Your introduction may have zero or more Heading2 subheadings. This
-  first subheading might introduce an activity.
-
-1. Step one
-   ..
-     Overwrite these steps with your own steps.
-
-     [code\_bash] block of code [code\_bash]
-..
-  Callouts (code block, warning, tip, etc.) for any given step should be
-  indented in the step in the step you want them to appear in.
-
-1. Step two
-
-   [figure\_1]
-
-..
-  Screenshots can be placed anywhere in the document using the notation
-  above.
-
-1. Step three could have a [glossary]term[glossary] you want to appear
-   in the glossary
-
-You may have text anywhere in the section (overwrite these sentences)
-
-[inline\_question] Q: Where can you put text in this section? A:
-Anywhere [inline\_question]
+**Notebook 5** Contains instructions for importing data into your JupyterLab
+session. If you want to skip steps, or import previously worked results,
+follow instructions in this notebook to import files. 
 
 ----
 
@@ -82,14 +68,14 @@ Anywhere [inline\_question]
    use :height: to give a desired height for your image
    replace the image name/location and URL if hyperlinked
 
- .. |Static image| image:: ./img/IMAGENAME.png
-    :width: 25
-    :height: 25
-
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
+.. |Session Link| image:: ./img/lesson_link_notification.png
+    :width: 300
     :height: 100
- .. _link : http://link-url
+
+.. |lab session| image:: ./img/lab_session.png
+    :width: 675
+    :height: 375
+
 
 .. Comment: Place URLS Below This Line
 

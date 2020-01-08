@@ -15,7 +15,7 @@ rst_prolog = sphinx_fontawesome.prolog
 
 from misc.sphinx_conf import *  # noqa
 
-project = 'YOUR LESSON NAME HERE'
+project = 'RNA-Seq analysis of Mouse Leptin Gene'
 copyright = '2019, Genomics Education Alliance'
 author = 'your_name'
 version = '1.0'

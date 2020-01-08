@@ -12,7 +12,7 @@ extensions = [
     'sphinx_fontawesome'
 ]
 
-project = 'YOUR PROJECT NAME HERE'
+project = 'RNA-Seq analysis of Mouse Leptin Gene'
 copyright = '2019, Genomics Education Alliance'
 author = 'Genomics Education Alliance'
 version = '1.0'
