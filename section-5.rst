@@ -98,7 +98,7 @@ convert the data into the |fastq format|. Fastq is the most common format for
 high-throughput DNA sequencing (the type of sequencing generally used for
 genome sequencing and also RNA-Seq). Most tools are compatible with this format.
 
-1. Access the `JupyterLab Lesson on CyVerse <section-1.rst>`_ and complete
+1. Access the `JupyterLab Lesson on CyVerse <section-1.html>`_ and complete
    **Notebook 0: Import file from NCBI Sequence Read Archive**
 
      .. admonition:: Notebook Preview
@@ -112,7 +112,7 @@ genome sequencing and also RNA-Seq). Most tools are compatible with this format.
          <iframe src="_static/notebook-0.html"
          height="600" width=100%></iframe>
 
-Questions 
+Questions
 ------------
 
 .. admonition:: Question
