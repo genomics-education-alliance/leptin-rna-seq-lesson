@@ -59,7 +59,7 @@ Backup Notebook
 
 **Notebook 5** Contains instructions for importing data into your JupyterLab
 session. If you want to skip steps, or import previously worked results,
-follow instructions in this notebook to import files. 
+follow instructions in this notebook to import files.
 
 ----
 
@@ -89,4 +89,4 @@ follow instructions in this notebook to import files.
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/JasonJWilliamsNY/leptin-rna-seq-lesson-dev" target="blank">Github Repo Link</a>
