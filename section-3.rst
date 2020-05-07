@@ -155,7 +155,7 @@ Sometimes you will see a command that looks like this:
     --output-dir=$output
     done
 
-The "\\" is just a way of splitting up the command over multiple lines to make
+The backslash (\\) is just a way of splitting up the command over multiple lines to make
 it easier to read. We could also write the same command like this (more difficult
 to read):
 
@@ -184,7 +184,7 @@ You will also see loops with a syntax that begins with a statement like 'for' or
 
       while read line; do prefetch $line; done<finalsamples.txt; done
 
-A loop usually takes several files any performs one or more operations
+A loop usually takes several files and performs one or more operations
 to that file. See the Software Carpentry |loop lesson| for more on this.
 
 **Variables**

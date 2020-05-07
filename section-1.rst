@@ -24,9 +24,7 @@ This lesson will be launched from the |CyVerse Discovery Environment|.
 
 1. Click this quick-launch button to launch the lesson;
 
-    .. raw:: html
-
-      <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=76138a2c-3b6b-4494-b79a-7f5200b2b237&app-id=2b9d31fe-3162-11ea-a78a-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+    |CyVerse_lesson|
 
    login to the Discovery Environment if necessary; then click **Launch Analysis**
    to start the application.
@@ -59,7 +57,7 @@ Backup Notebook
 
 **Notebook 5** Contains instructions for importing data into your JupyterLab
 session. If you want to skip steps, or import previously worked results,
-follow instructions in this notebook to import files. 
+follow instructions in this notebook to import files.
 
 ----
 

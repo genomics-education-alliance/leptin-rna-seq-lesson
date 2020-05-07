@@ -106,7 +106,7 @@
 
 .. |Regular Diet Control 1| raw:: html
 
-  <a href="LINK" target="blank">Regular Diet Control 1</a>
+  <a href="https://www.ncbi.nlm.nih.gov/sra/SRX2345622[accn]" target="blank">Regular Diet Control 1</a>
 
 .. |All runs|  raw:: html
 
@@ -180,10 +180,7 @@
 
   <a href="https://pachterlab.github.io/sleuth/about" target="blank">Sleuth</a>
 
-.. |LINK|  raw:: html
-
-  <a href="LINK" target="blank">LINK</a>
-
-.. |LINK|  raw:: html
-
-  <a href="LINK" target="blank">LINK</a>
+.. |CyVerse_lesson| image:: ./img/Powered-By-CyVerse-blue.png
+    :width: 125
+    :height: 20
+    :target: https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=76138a2c-3b6b-4494-b79a-7f5200b2b237&app-id=2b9d31fe-3162-11ea-a78a-008cfa5ae621  target="_blank"

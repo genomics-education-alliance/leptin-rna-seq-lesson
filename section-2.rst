@@ -21,7 +21,7 @@ JupyterLab mixes blocks of explanatory text with code and visualizations.
 
 Many people are used to using computers with a graphical interface (GUI,
 pronounced "gooey"), i.e. point-and-click interfaces. However, most scientific
-software is usually has a command line interface - every instruction is in the
+software usually has a command line interface - every instruction is in the
 form of written text. Although the command line can take time to learn, it is
 preferred by researchers because every command is documented and unambiguous.
 
