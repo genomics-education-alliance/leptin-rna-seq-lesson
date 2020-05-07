@@ -28,7 +28,7 @@ Term three
  .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
     :width: 500
     :height: 100
- .. _link : http://link-url    
+ .. _link : http://link-url
 
 .. Comment: Place URLS Below This Line
 
@@ -43,4 +43,4 @@ Term three
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/JasonJWilliamsNY/leptin-rna-seq-lesson-dev" target="blank">Github Repo Link</a>

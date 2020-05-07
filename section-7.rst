@@ -84,7 +84,7 @@ Using the Jupyter Notebook, you will run Trimmomatic using the SLIDINGWINDOW and
 MINLEN functions. Then use FastQC to see how your trim settings have changed
 (and hopefully improved) the quality of the data.
 
-1. Access the `JupyterLab Lesson on CyVerse <section-1.rst>`_ and complete
+1. Access the `JupyterLab Lesson on CyVerse <section-1.html>`_ and complete
    **Notebook 2: Trimming bad data**
 
      .. admonition:: Notebook Preview
@@ -144,4 +144,4 @@ Questions
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/JasonJWilliamsNY/leptin-rna-seq-lesson-dev" target="blank">Github Repo Link</a>

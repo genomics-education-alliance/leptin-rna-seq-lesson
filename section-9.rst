@@ -105,7 +105,7 @@ Using the Jupyter Notebook, you will run visualize aligned RNA-Seq reads using
 GenomeView and the UCSC genome browser. With optional |IGV| download, you can
 further extend the visualization.
 
-   1. Access the `JupyterLab Lesson on CyVerse <section-1.rst>`_ and complete
+   1. Access the `JupyterLab Lesson on CyVerse <section-1.html>`_ and complete
    **Notebook 4: Visualize BAM file alignment at the Leptin gene locus**
 
      .. admonition:: Notebook Preview
@@ -131,7 +131,7 @@ Questions
       is included in this file?
 
    3. Can visualization alone tell you what you need to know about gene expression,
-      why or why not? 
+      why or why not?
 
 ----
 
@@ -154,4 +154,4 @@ Questions
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/JasonJWilliamsNY/leptin-rna-seq-lesson-dev" target="blank">Github Repo Link</a>

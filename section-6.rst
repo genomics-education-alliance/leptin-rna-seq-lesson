@@ -195,7 +195,7 @@ the initial data, and later in the next notebook to see changes after
 trimming and filtering. Remember to check the |FastQC| website for additional
 details on the FastQC report.
 
-1. Access the `JupyterLab Lesson on CyVerse <section-1.rst>`_ and complete
+1. Access the `JupyterLab Lesson on CyVerse <section-1.html>`_ and complete
    **Notebook 1: Running FastQC**
 
      .. admonition:: Notebook Preview
@@ -262,4 +262,4 @@ Questions
 
 .. |Github Repo Link|  raw:: html
 
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+   <a href="https://github.com/JasonJWilliamsNY/leptin-rna-seq-lesson-dev" target="blank">Github Repo Link</a>

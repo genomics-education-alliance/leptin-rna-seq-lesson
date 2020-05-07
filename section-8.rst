@@ -290,7 +290,7 @@ Using the Jupyter Notebook, you will run use Kallisto to analyze trimmed RNA-Seq
 reads. The notebook covers importing reference data (transcriptome,
 annotations, chromosome coordinates) from Ensembl and NCBI.
 
-1. Access the `JupyterLab Lesson on CyVerse <section-1.rst>`_ and complete
+1. Access the `JupyterLab Lesson on CyVerse <section-1.html>`_ and complete
    **Notebook 3: RNA-Seq from scratch - Kallisto**
 
 
