@@ -180,6 +180,11 @@
 
   <a href="https://pachterlab.github.io/sleuth/about" target="blank">Sleuth</a>
 
+.. |Explain Shell|  raw:: html
+
+  <a href="https://explainshell.com/" target="blank">Explain Shell</a>
+
+
 .. |CyVerse_lesson| image:: ./img/Powered-By-CyVerse-blue.png
     :width: 125
     :height: 20

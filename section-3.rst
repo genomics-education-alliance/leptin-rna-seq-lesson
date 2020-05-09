@@ -193,6 +193,13 @@ At the shell you will sometimes see a '$' in front of a word. This '$' indicates
 that the word is a variable. You will usually see this inside of loops and the
 Software Carpentry |loop lesson| also goes into further explanation.
 
+  .. tip::
+
+    The website |Explain Shell| allows you to take a line of Linux code and
+    break it down into an annotated explanation. 
+
+
+
 ----
 
 .. Comment: Place Images Below This Line
